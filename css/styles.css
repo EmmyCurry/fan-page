@@ -1,0 +1,38 @@
+
+
+body {
+    background-color: rgb(93, 201, 235);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    size: 60px;
+}
+
+img {
+    position: relative;
+    size: 400px;
+    top: 40px;
+    left: 300px; /*not sure on this. how to make it centered??*Div and inline?*/
+}
+
+.faq {
+    color: hotpink;
+    text-decoration: underline;
+
+}
+
+.quotes {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+.links {
+    text-decoration: underline;
+}
